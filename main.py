@@ -10,10 +10,10 @@ plugins = dict(root="plugins")
 
 async def main():
   user = Client("8036554223:AAG1yiJPTxGXbmZ_V4SEiz9vTtULDz98bys",   #bototken
-                api_id="1818448444",
+                api_id="22608087",
                 api_hash="1f6f3d3c0b628543ec5989e5876e1ee5")
   bot = Client("8036554223:AAG1yiJPTxGXbmZ_V4SEiz9vTtULDz98bys",#bottoken
-               api_id="1818448444",
+               api_id="22608087",
                api_hash="1f6f3d3c0b628543ec5989e5876e1ee5",
                bot_token="8036554223:AAG1yiJPTxGXbmZ_V4SEiz9vTtULDz98bys",#bototken
                plugins=plugins)
